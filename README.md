@@ -1,4 +1,4 @@
-kunskapskontroll <br>
+Kunskapskontroll <br>
 r-programmering <br>
 Ec Utbildning <br>
 Astrid Hansen <br>
